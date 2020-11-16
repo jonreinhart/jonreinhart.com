@@ -1,2 +1,0 @@
-# jonreinhart.com
-My portfolio
