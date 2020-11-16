@@ -23,23 +23,23 @@ body {
 }
 
 .crossfade > figure:nth-child(1) {
-  background-image: url('file:///Users/jonreinhart/Desktop/Jonreinhart.com/Background/HomePage_Images/Slideshow_Images.jpg');
+  background-image: url('image1.jpg');
 }
 .crossfade > figure:nth-child(2) {
   animation-delay: 6s;
-  background-image: url('file:///Users/jonreinhart/Desktop/Jonreinhart.com/Background/HomePage_Images/Slideshow_Images2.jpg');
+  background-image: url('image2.jpg');
 }
 .crossfade > figure:nth-child(3) {
   animation-delay: 12s;
-  background-image: url('file:///Users/jonreinhart/Desktop/Jonreinhart.com/Background/HomePage_Images/Slideshow_Images3.jpg');
+  background-image: url('image3.jpg');
 }
 .crossfade > figure:nth-child(4) {
   animation-delay: 18s;
-  background-image: url('file:///Users/jonreinhart/Desktop/Jonreinhart.com/Background/HomePage_Images/Slideshow_Images4.jpg');
+  background-image: url('image4.jpg');
 }
 .crossfade > figure:nth-child(5) {
   animation-delay: 24s;
-  background-image: url('file:///Users/jonreinhart/Desktop/Jonreinhart.com/BackgroundHomePage/HomePage_Images/Slideshow_Images5.jpg');
+  background-image: url('image4.jpg');
 }
 
 @keyframes imageAnimation {
